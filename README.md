@@ -13,6 +13,8 @@ Create at least 3 House, Villa and Cottage objects in a class and write the meth
 * The method that returns the average square meter of the cottages
 * Method to return the average square meter of houses of all types
 * A method that filters all types of houses according to the number of rooms and halls and returns
+  
+ ![Ekran Alıntısı](https://user-images.githubusercontent.com/62817020/214083321-92015fd9-f5dc-426b-a28f-6818dc884ce8.PNG)
 
 
 # Note:
